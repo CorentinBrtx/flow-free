@@ -1,0 +1,20 @@
+6 6
+6
+YELLOW
+2 2
+4 2
+RED
+4 1
+2 3
+GREEN
+0 5
+2 5
+BLUE
+0 2
+3 5
+CYAN
+3 3
+4 4
+ORANGE
+0 1
+4 5

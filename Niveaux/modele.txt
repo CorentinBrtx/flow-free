@@ -1,0 +1,12 @@
+nbLignes nbColonnes
+nbCouleurs
+couleur1
+e_couleur1_1
+e_couleur1_2
+couleur2
+e_couleur2_1
+e_couleur2_2
+couleur3
+.
+.
+.
