@@ -25,7 +25,6 @@ public class Controleur {
 		
 		File directory = new File("./Niveaux");
 		nbNiveaux = directory.list().length-1;
-		System.out.println("nbNiveaux " + nbNiveaux);
 	}
 	
 	public Tuyau getTuyau(int ligne, int colonne) {

@@ -103,7 +103,6 @@ public class NiveauListener implements MouseAndKeyListener {
 				if (this.controleur.modifyCase(this.controleur.getTuyau(currentLigne, currentColonne), currentLigne-1, currentColonne, "B")) {
 					this.controleur.setCurrent(currentLigne-1, currentColonne);
 				}
-				System.out.println("up !");
 				break;
 			case KeyEvent.VK_DOWN:
 				if (this.controleur.modifyCase(this.controleur.getTuyau(currentLigne, currentColonne), currentLigne+1, currentColonne, "H")) {
